@@ -18,6 +18,7 @@
   "files": [
     "build",
     "lib",
+    "ext",
     "install.js",
     "config.js"
   ],
